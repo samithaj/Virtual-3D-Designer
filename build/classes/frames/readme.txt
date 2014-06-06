@@ -1,3 +1,5 @@
+//this is a readme text
+
 add these jar files to libraries
 
 1. org.jzy3d-0.9.jar
